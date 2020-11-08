@@ -8,4 +8,4 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 [project_1](/data_science/project_1/)
 
-[Project_2](../data_science/project_1.md)
+[Project_2](../data_science/project_1/)
