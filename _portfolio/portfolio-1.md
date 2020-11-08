@@ -7,5 +7,11 @@ collection: portfolio
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
 [preo](_projects/_data_science/project_1.md)
+<<<<<<< HEAD
 
 [Project_2](/_projects/_data_science/project_1/)
+=======
+[Project_1](../_projects/_data_science/project_1)
+hhhh
+[Project_2](../_projects/_data_science/project_1.md)
+>>>>>>> e20393322c6d6dab3401b1fe9d69292246411b06
