@@ -1,12 +1,8 @@
 ---
-title: "Paper Title Number 1"
-<<<<<<< HEAD
-collection: projects/data_science
-permalink: projects/data_science/project_1
-=======
+title: "test ds"
 collection: /projects/data_science
 permalink: /projects/data_science/project_1
->>>>>>> b62c77bb9d1d6e1b7da7270056a4327d20eb9dee
+
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
