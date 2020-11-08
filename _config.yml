@@ -185,8 +185,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   dataengineering:
-      output: true
-      permalink: /:collection/:path/
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -249,7 +249,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-      
+
   # _dataengineering
   - scope:
       path: ""
