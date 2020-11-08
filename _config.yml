@@ -193,8 +193,6 @@ collections:
   operationsresearch:
     output: true
     permalink: /:collection/:path/  
-  
-
   talks:
     output: true
     permalink: /:collection/:path/
@@ -247,7 +245,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-
  # _datascience
   - scope:
       path: ""
@@ -257,7 +254,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-
   # _dataengineering
   - scope:
       path: ""
@@ -267,7 +263,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-
   # _operationsresearch
   - scope:
       path: ""
