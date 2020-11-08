@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Test Data Science"
 collection: /data_science
 permalink: /data_science/project_1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
