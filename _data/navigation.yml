@@ -15,8 +15,11 @@ main:
   - title: "Data Science"
     url: /datascience/
 
-  - title: "Data-Engineering"
+  - title: "Data Engineering"
     url: /dataengineering/
+
+  - title: "Operations Research"
+    url: /operationsresearch/
         
   - title: "Blog Posts"
     url: /year-archive/
