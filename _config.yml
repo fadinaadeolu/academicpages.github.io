@@ -259,6 +259,17 @@ defaults:
       author_profile: true
       share: true
       comment: true
+
+  # _operationsresearch
+  - scope:
+      path: ""
+      type: operationsresearch
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+      
   # _talks
   - scope:
       path: ""
