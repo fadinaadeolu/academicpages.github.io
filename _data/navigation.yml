@@ -1,11 +1,5 @@
 # main links links
-main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Teaching"
-    url: /teaching/    
-    
+main:    
   - title: "Data Science"
     url: /datascience/
 
@@ -20,6 +14,9 @@ main:
     
   - title: "CV"
     url: /cv/
+    
+  - title: "Publications"
+    url: /publications/  
     
   - title: "Guide"
     url: /markdown/
