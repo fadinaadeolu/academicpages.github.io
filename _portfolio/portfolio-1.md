@@ -9,5 +9,5 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 [preo](_projects/_data_science/project_1.md)
 [Project_1](../_projects/_data_science/project_1)
 hhhh
-[Project_2](_projects/_data_science/project_1.md)
+[Project_2](../_projects/_data_science/project_1.md)
 kkkk
