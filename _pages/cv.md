@@ -16,13 +16,13 @@ redirect_from:
 :e-mail: fadinaadeolu@gmail.com.
 
 
-### Personal Statement
+## Personal Statement
 
 A data enthusiast and a lifelong learner with strong dedication to personal development. I have work experience as data engineer and data analyst, where I aquired expertise to effectively operate across the entire data lifecycle from data collection and storage to utilization for optimal data-driven business decisions.
 
-### Education
+## Education
 
-#### Master of Science in Integrated Climate System Sciences, Universität Hamburg, Hamburg. (2018 - 2020)
+### Master of Science in Integrated Climate System Sciences, Universität Hamburg, Hamburg. (2018 - 2020)
 
 **Specializations:** Economics and Sustainability.
 
@@ -35,7 +35,7 @@ I optimized land-use allocation for food and bioenergy production under environm
 Research Unit: Sustainability and Global Change.
 
 
-#### Master of Science in Physics, University of Ilorin, Ilorin. (2016 – 2018).
+### Master of Science in Physics, University of Ilorin, Ilorin. (2016 – 2018).
 
 Specializations: Atmospheric Physics and Solar Energy.
 
@@ -50,7 +50,7 @@ I studied spatial and temporal variation of downward longwave radiation (LWD) ov
 - Demonstrate laboratory experiments for undergraduate students.
 - Provided support on undergraduate research projects and introduced students to scientific report writing.
 
-#### Bachelor of Science in Physics, Univeristy of Ilorin, Ilorin. (2010 – 2014)
+### Bachelor of Science in Physics, Univeristy of Ilorin, Ilorin. (2010 – 2014)
 
 
 Thesis Surficial survey for elevation characterization within the basement complex of Unilorin premises.
@@ -59,9 +59,9 @@ Summary:
 
 ... I studied how the landscape within the Unilorin premises has changed by comparing two elevation datasets taken in 2003 and 2014 with the aid of a topography maps.
 
-### Work experience
+## Work experience
 
-#### Data Engineer (working student) at HalloFreelancer GmbH (New-Work SE), Hamburg. (2019 – 2020)
+### Data Engineer (working student) at HalloFreelancer GmbH (New-Work SE), Hamburg. (2019 – 2020)
        
 * Responsibilities:
   * Work in a team of 12, consisting of data engineer, analyst, scientist, software engineer and project manager, where I drive and collaborate on projects.
@@ -69,12 +69,12 @@ Summary:
   * Perform data analysis and report findings to other departments upon request to accelerate decision making.
   * Carry out server and data infrastructure maintenance to ensure efficient operation.
 
-##### Data Analyst at Code-X Analytics, Ilorin. (2017 – 2018).
+### Data Analyst at Code-X Analytics, Ilorin. (2017 – 2018).
 Responsibilities:
 
 - Conduct data analysis and report pertinent results in order to achieve research objectives for clients.
 
-#### Science Teacher at Community Grammar School, Oniperegun. (National Youth Service Corps). (2014 – 2015) 
+### Science Teacher at Community Grammar School, Oniperegun. (National Youth Service Corps). (2014 – 2015) 
 Osun State Responsibilities:
 
 - Taught O-Level Senior and Junior high school students Physics and Introductory to Technology.
