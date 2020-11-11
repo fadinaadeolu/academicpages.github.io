@@ -78,11 +78,6 @@ A data enthusiast and a lifelong learner with strong dedication to personal deve
 **National Youth Service Corps Osun State Community Development Service, Onipergun.(2014 - 2015)**
 * I, along with a team of corp members engaged in numerous sensitization programmes on value of education, drug abuse, environmental and personal hygiene etc. in schools and surrounding communities.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 ### Courses
 - In view    AWS Data Architect Bootcamp. (Udemy.com) </pre>
 - Sep 2020 .... The Business Intelligence Analyst Course 2020. (Udemy.com)
