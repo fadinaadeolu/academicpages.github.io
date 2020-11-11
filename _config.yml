@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Adeolu Fadina"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Adeolu Fadina"
 description              : &description "personal description"
 url                      : "https://fadinaadeolu.github.io" #"https://academicpages.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "     Adeolu Fadina"
+  name             : "...Adeolu Fadina"
   avatar           : "profile.png"
   bio              : "A data enthusiast and a lifelong learner with strong dedication to personal development. I have work experience as data engineer and data analyst, where I aquired expertise to effectively operate across the entire data lifecycle from data collection and storage to utilization for optimal data-driven business decisions."
   location         : "Location"
