@@ -22,7 +22,7 @@ A data enthusiast and a lifelong learner with strong dedication to personal deve
 
 ### Education
 
-#### Master of Science in Integrated Climate System Sciences, Universität Hamburg. 2018 - 2020
+#### Master of Science in Integrated Climate System Sciences, Universität Hamburg, Hamburg. (2018 - 2020)
 
 **Specializations:** Economics and Sustainability.
 
@@ -32,17 +32,14 @@ A data enthusiast and a lifelong learner with strong dedication to personal deve
 
 I optimized land-use allocation for food and bioenergy production under environmental and socia-economic constraints.
 
-Research Sustainability and Global Change.
+Research Unit: Sustainability and Global Change.
 
-Unit
 
-2016 – 2018 Master of Science in Physics
-
-IlorinUniversity of Ilorin
+#### Master of Science in Physics, University of Ilorin, Ilorin. (2016 – 2018).
 
 Specializations: Atmospheric Physics and Solar Energy.
 
-Thesis Spatio-temporal variation of downward longwave radiation over Nigeria, West-Africa.
+Thesis: Spatio-temporal variation of downward longwave radiation over Nigeria, West-Africa.
 
 Summary:
 
@@ -53,9 +50,8 @@ I studied spatial and temporal variation of downward longwave radiation (LWD) ov
 - Demonstrate laboratory experiments for undergraduate students.
 - Provided support on undergraduate research projects and introduced students to scientific report writing.
 
-**2010 – 2014 Bachelor of Science in Physics**
+#### Bachelor of Science in Physics, Univeristy of Ilorin, Ilorin. (2010 – 2014)
 
-IlorinUniversity of Ilorin.
 
 Thesis Surficial survey for elevation characterization within the basement complex of Unilorin premises.
 
@@ -64,24 +60,21 @@ Summary:
 ... I studied how the landscape within the Unilorin premises has changed by comparing two elevation datasets taken in 2003 and 2014 with the aid of a topography maps.
 
 ### Work experience
-====
-**2019 – 2020 Data Engineer (working student) at HalloFreelancer GmbH (New-Work SE)**
 
-Hamburg        
+#### Data Engineer (working student) at HalloFreelancer GmbH (New-Work SE), Hamburg. (2019 – 2020)
+       
 * Responsibilities:
   * Work in a team of 12, consisting of data engineer, analyst, scientist, software engineer and project manager, where I drive and collaborate on projects.
   * Setup, automate and maintain data pipelines and ETL processes to aggregate data for analysis and reporting.
   * Perform data analysis and report findings to other departments upon request to accelerate decision making.
   * Carry out server and data infrastructure maintenance to ensure efficient operation.
 
-2017 – 2018 Data Analyst at Code-X Analytics
-
-Ilorin Responsibilities:
+##### Data Analyst at Code-X Analytics, Ilorin. (2017 – 2018).
+Responsibilities:
 
 - Conduct data analysis and report pertinent results in order to achieve research objectives for clients.
 
-**2014 – 2015 Science Teacher at Community Grammar School, Oniperegun. (National Youth Service Corps)**
-
+#### Science Teacher at Community Grammar School, Oniperegun. (National Youth Service Corps). (2014 – 2015) 
 Osun State Responsibilities:
 
 - Taught O-Level Senior and Junior high school students Physics and Introductory to Technology.
