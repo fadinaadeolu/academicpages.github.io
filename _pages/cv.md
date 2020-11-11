@@ -28,7 +28,7 @@ A data enthusiast and a lifelong learner with strong dedication to personal deve
 
 * **Thesis:**  Balancing food and energy security throughland-use adaptation in Nigeria.
 
- * **Summary:** I optimized land-use allocation for food and bioenergy production under environmental and socia-economic constraints.
+  * **Summary:** I optimized land-use allocation for food and bioenergy production under environmental and socia-economic constraints.
 
 * **Research Unit:** Sustainability and Global Change.
 
@@ -50,7 +50,7 @@ A data enthusiast and a lifelong learner with strong dedication to personal deve
 
 * **Thesis:** Surficial survey for elevation characterization within the basement complex of Unilorin premises.
 
- * **Summary:** I studied how the landscape within the Unilorin premises has changed by comparing two elevation datasets taken in 2003 and 2014 with the aid of a topography maps.
+  * **Summary:** I studied how the landscape within the Unilorin premises has changed by comparing two elevation datasets taken in 2003 and 2014 with the aid of a topography maps.
 
 ## Work experience
 
