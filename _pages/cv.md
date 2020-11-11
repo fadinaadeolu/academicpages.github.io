@@ -67,18 +67,18 @@ Thesis Surficial survey for elevation characterization within the basement compl
 
 Summary:
 
-I studied how the landscape within the Unilorin premises has changed by comparing two elevation datasets taken in 2003 and 2014 with the aid of a topography maps.
+... I studied how the landscape within the Unilorin premises has changed by comparing two elevation datasets taken in 2003 and 2014 with the aid of a topography maps.
 
 ### Work experience
 ====
 **2019 – 2020 Data Engineer (working student) at HalloFreelancer GmbH (New-Work SE)**
 
-HamburgResponsibilities:
-
-- Work in a team of 12, consisting of data engineer, analyst, scientist, software engineer and project manager, where I drive and collaborate on projects.
-- Setup, automate and maintain data pipelines and ETL processes to aggregate data for analysis and reporting.
-- Perform data analysis and report findings to other departments upon request to accelerate decision making.
-- Carry out server and data infrastructure maintenance to ensure efficient operation.
+Hamburg        
+* Responsibilities:
+  * Work in a team of 12, consisting of data engineer, analyst, scientist, software engineer and project manager, where I drive and collaborate on projects.
+  * Setup, automate and maintain data pipelines and ETL processes to aggregate data for analysis and reporting.
+  * Perform data analysis and report findings to other departments upon request to accelerate decision making.
+  * Carry out server and data infrastructure maintenance to ensure efficient operation.
 
 2017 – 2018 Data Analyst at Code-X Analytics
 
