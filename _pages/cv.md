@@ -22,39 +22,24 @@ redirect_from:
 
 A data enthusiast and a lifelong learner with strong dedication to personal development. I have work experience as data engineer and data analyst, where I aquired expertise to effectively operate across the entire data lifecycle from data collection and storage to utilization for optimal data-driven business decisions.
 
-**Employment History**
 
-**2019 – 2020 Data Engineer (working student) at HalloFreelancer GmbH (New-Work SE)**
+**Languages** English: Fluent,German: A2, Yoruba: Mother tongue.
 
-HamburgResponsibilities:
+**Hobbies** Reading, Travelling, and Football.
 
-- Work in a team of 12, consisting of data engineer, analyst, scientist, software engineer and project manager, where I drive and collaborate on projects.
-- Setup, automate and maintain data pipelines and ETL processes to aggregate data for analysis and reporting.
-- Perform data analysis and report findings to other departments upon request to accelerate decision making.
-- Carry out server and data infrastructure maintenance to ensure efficient operation.
+**Publications**
 
-# 2017 – 2018 Data Analyst at Code-X Analytics
+Accepted **Fadina, S. A\*,** Fakoya, A. A, Akoshile, C. O, Ajibola, T. B. Spatio-temporal variation of downward longwave radiation over Nigeria. Ilorin Journal of Science. University of Ilorin.
 
-Ilorin Responsibilities:
+In review Fakoya A. A.; Ajibola T. B.; **Fadina, S. A\*** _et al._ Trend Analysis and Forecast of Thunderstorm Activities over Nigeria using Mann-Kendall and Auto-Regressive Integrated Moving Average Approach.
 
-- Conduct data analysis and report pertinent results in order to achieve research objectives for clients.
+A. Fakoya; T. B. Ajibola; **S. A Fadina\*** _et al_. Spatio-Temporal Variation and Classification of Thunderstorm Activities over Selected Stations in Nigeria&quot;.
 
-**2014 – 2015 Science Teacher**** at****Community Grammar School, Oniperegun. (National Youth Service Corps)**
-
-Osun State Responsibilities:
-
-- Taught O-Level Senior and Junior high school students Physics and Introductory to Technology.
-- Prepared lesson notes and administered class exercises and tests.
-
-**Volunteer**
-
-**2014 – 2015 National Youth Service Corps**
-
-Osun State Community Development Service, Onipergun.
-
-- I, along with a team of corp members engaged in numerous sensitization programmes on value of education, drug abuse, environmental and personal hygiene etc. in schools and surrounding communities.
-
-**Education**
+Education
+======
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 # 2018 – 2020 Master of Science in Integrated Climate System Sciences
 
@@ -99,7 +84,48 @@ Summary:
 
 I studied how the landscape within the Unilorin premises has changed by comparing two elevation datasets taken in 2003 and 2014 with the aid of a topography maps.
 
-**Courses**
+Work experience
+======
+**2019 – 2020 Data Engineer (working student) at HalloFreelancer GmbH (New-Work SE)**
+
+HamburgResponsibilities:
+
+- Work in a team of 12, consisting of data engineer, analyst, scientist, software engineer and project manager, where I drive and collaborate on projects.
+- Setup, automate and maintain data pipelines and ETL processes to aggregate data for analysis and reporting.
+- Perform data analysis and report findings to other departments upon request to accelerate decision making.
+- Carry out server and data infrastructure maintenance to ensure efficient operation.
+
+# 2017 – 2018 Data Analyst at Code-X Analytics
+
+Ilorin Responsibilities:
+
+- Conduct data analysis and report pertinent results in order to achieve research objectives for clients.
+
+**2014 – 2015 Science Teacher**** at****Community Grammar School, Oniperegun. (National Youth Service Corps)**
+
+Osun State Responsibilities:
+
+- Taught O-Level Senior and Junior high school students Physics and Introductory to Technology.
+- Prepared lesson notes and administered class exercises and tests.
+
+**Volunteer**
+
+**2014 – 2015 National Youth Service Corps**
+
+Osun State Community Development Service, Onipergun.
+
+- I, along with a team of corp members engaged in numerous sensitization programmes on value of education, drug abuse, environmental and personal hygiene etc. in schools and surrounding communities.
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
+ **Courses**
 
 In view AWS Data Architect Bootcamp. (Udemy.com)
 
@@ -111,6 +137,9 @@ Aug 2020 Process Flowcharts and Process Mapping - The Beginner&#39;s Guide. (Ude
 
 May 2020 Deep Learning A-Z™: Hands-On Artificial Neural Networks. (Udemy.com)
 
+  
+Skills
+======
 **Skills**
 
 Expert: Python, SQL, Machine Learning, Statistical Modelling.
@@ -120,39 +149,6 @@ Experienced: Airflow, Web Scraping, GitHub, Tableau, Deep Learning, General Alge
 Basic: Amazon AWS , Docker, Terraform, NoSQL, R, Talend, Hadoop, Jira, Julia.
 
 **Soft Skills** Teamwork, Critical Thinking, Communication, Listening, Willingness to learn, Research.
-
-**Languages** English: Fluent,German: A2, Yoruba: Mother tongue.
-
-**Hobbies** Reading, Travelling, and Football.
-
-**Publications**
-
-Accepted **Fadina, S. A\*,** Fakoya, A. A, Akoshile, C. O, Ajibola, T. B. Spatio-temporal variation of downward longwave radiation over Nigeria. Ilorin Journal of Science. University of Ilorin.
-
-In review Fakoya A. A.; Ajibola T. B.; **Fadina, S. A\*** _et al._ Trend Analysis and Forecast of Thunderstorm Activities over Nigeria using Mann-Kendall and Auto-Regressive Integrated Moving Average Approach.
-
-A. Fakoya; T. B. Ajibola; **S. A Fadina\*** _et al_. Spatio-Temporal Variation and Classification of Thunderstorm Activities over Selected Stations in Nigeria&quot;.
-
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
