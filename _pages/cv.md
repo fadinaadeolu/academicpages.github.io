@@ -9,32 +9,26 @@ redirect_from:
 
 {% include base_path %}
 ## Adeolu Fadina
-50, Hagenbeckstraße, 22527 Hamburg (Germany)
-+49 15214058227 
-fadinaadeolu@gmail.com
+:house: 50, Hagenbeckstraße, 22527 Hamburg (Germany).
+
+:telephone_receiver: +49 1521 4058227. 
+
+:e-mail: fadinaadeolu@gmail.com.
 
 
 ### Personal Statement
 
-
 A data enthusiast and a lifelong learner with strong dedication to personal development. I have work experience as data engineer and data analyst, where I aquired expertise to effectively operate across the entire data lifecycle from data collection and storage to utilization for optimal data-driven business decisions.
-
 
 ### Education
 
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+#### Master of Science in Integrated Climate System Sciences, Universität Hamburg. 2018 - 2020
 
-#### 2018 – 2020     Master of Science in Integrated Climate System Sciences
+**Specializations:** Economics and Sustainability.
 
-Hamburg             Universität Hamburg.
+**Thesis**  Balancing food and energy security throughland-use adaptation in Nigeria.
 
-Specializations: Economics and Sustainability.
-
-Thesis Balancing food and energy security throughland-use adaptation in Nigeria.
-
-Summary:
+**Summary:**
 
 I optimized land-use allocation for food and bioenergy production under environmental and socia-economic constraints.
 
