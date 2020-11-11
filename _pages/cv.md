@@ -131,7 +131,7 @@ Reading, Travelling, and Football.
 
 ### Publications
 
-- **Accepted** Fadina, S. A\*,** Fakoya, A. A, Akoshile, C. O, Ajibola, T. B. Spatio-temporal variation of downward longwave radiation over Nigeria. Ilorin Journal of Science. University of Ilorin.
+- **Accepted** **Fadina, S. A,\*** Fakoya, A. A, Akoshile, C. O, Ajibola, T. B. Spatio-temporal variation of downward longwave radiation over Nigeria. Ilorin Journal of Science. University of Ilorin.
 
 - **In review** Fakoya A. A.; Ajibola T. B.; **Fadina, S. A\*** _et al._ Trend Analysis and Forecast of Thunderstorm Activities over Nigeria using Mann-Kendall and Auto-Regressive Integrated Moving Average Approach.
 
