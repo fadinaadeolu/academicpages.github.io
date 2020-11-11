@@ -62,15 +62,16 @@ A data enthusiast and a lifelong learner with strong dedication to personal deve
   * Perform data analysis and report findings to other departments upon request to accelerate decision making.
   * Carry out server and data infrastructure maintenance to ensure efficient operation.
 
-### Data Analyst at Code-X Analytics, Ilorin. (2017 – 2018).
+### Data Analyst at Code-X Analytics, Ilorin. (2017 – 2018)
+
 * **Responsibilities:**
- * Conduct data analysis and report pertinent results in order to achieve research objectives for clients.
+  * Conduct data analysis and report pertinent results in order to achieve research objectives for clients.
 
 ### Science Teacher at Community Grammar School, Oniperegun. (National Youth Service Corps). (2014 – 2015) 
-* **Responsibilities:**
 
-* Taught O-Level Senior and Junior high school students Physics and Introductory to Technology.
-* Prepared lesson notes and administered class exercises and tests.
+* **Responsibilities:**
+  * Taught O-Level Senior and Junior high school students Physics and Introductory to Technology.
+  * Prepared lesson notes and administered class exercises and tests.
 
 ### Volunteer
 
