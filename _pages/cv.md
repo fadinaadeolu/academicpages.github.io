@@ -24,26 +24,23 @@ A data enthusiast and a lifelong learner with strong dedication to personal deve
 
 ### Master of Science in Integrated Climate System Sciences, Universität Hamburg, Hamburg. (2018 - 2020)
 
-**Specializations:** Economics and Sustainability.
+* **Specializations:** Economics and Sustainability.
 
-**Thesis**  Balancing food and energy security throughland-use adaptation in Nigeria.
+* **Thesis:**  Balancing food and energy security throughland-use adaptation in Nigeria.
 
-**Summary:**
+ ** **Summary:** I optimized land-use allocation for food and bioenergy production under environmental and socia-economic constraints.
 
-I optimized land-use allocation for food and bioenergy production under environmental and socia-economic constraints.
-
-Research Unit: Sustainability and Global Change.
+* **Research Unit:* Sustainability and Global Change.
 
 
 ### Master of Science in Physics, University of Ilorin, Ilorin. (2016 – 2018).
 
-Specializations: Atmospheric Physics and Solar Energy.
+* **Specializations:** Atmospheric Physics and Solar Energy.
 
-Thesis: Spatio-temporal variation of downward longwave radiation over Nigeria, West-Africa.
+* **Thesis: ** Spatio-temporal variation of downward longwave radiation over Nigeria, West-Africa.
 
-Summary:
-
-I studied spatial and temporal variation of downward longwave radiation (LWD) over for Nigeria using generated radiation maps and variograms, and proposed downward longwave radiation prediction model using machine learning.
+  ** **Summary:** I studied spatial and temporal variation of downward longwave radiation (LWD) over for Nigeria using generated.
+               ...   radiation maps and variograms, and proposed downward longwave radiation prediction model using machine learning.
 
 **Graduate Assistant.**
 
