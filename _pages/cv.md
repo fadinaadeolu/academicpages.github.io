@@ -42,7 +42,7 @@ A data enthusiast and a lifelong learner with strong dedication to personal deve
 
 ## Volunteer
 
-## National Youth Service Corps Osun State Community Development Service, Onipergun.(2014 - 2015)**
+### National Youth Service Corps Osun State Community Development Service, Onipergun.(2014 - 2015)
 
 * I, along with a team of corp members engaged in numerous sensitization programmes on value of education, drug abuse, environmental and personal hygiene etc. in schools and surrounding communities.
 
