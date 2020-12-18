@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "fadinaadeolu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/fadina-adeolu-8b137bab/"
+  linkedin         : "/fadina-adeolu-8b137bab"
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -184,7 +184,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  datascience:
+  datasciana:
     output: true
     permalink: /:collection/:path/
   dataengineering:
@@ -245,10 +245,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
- # _datascience
+ # _datascience and analytics
   - scope:
       path: ""
-      type: datascience
+      type: datasciana
     values:
       layout: single
       author_profile: true
