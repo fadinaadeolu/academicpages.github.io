@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "...Adeolu Fadina"
+  name             : "Adeolu Fadina"
   avatar           : "profile.png"
   bio              : "A data enthusiast and a lifelong learner with strong dedication to personal development. I have work experience as data engineer and data analyst, where I aquired expertise to effectively operate across the entire data lifecycle from data collection and storage to utilization for optimal data-driven business decisions."
-  location         : "Location"
+  location         : "Hamburg, Germany"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "fadinaadeolu@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/fadina-adeolu-8b137bab/"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
