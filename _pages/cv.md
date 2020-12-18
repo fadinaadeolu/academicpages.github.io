@@ -77,9 +77,9 @@ A data enthusiast and a lifelong learner with strong dedication to personal deve
 
 ### Skills
 
--*Expert:* Python, SQL, Statistical Modelling.
--*Experienced:* Airflow, Web Scraping, GitHub, Tableau, Deep Learning, GAMS, Operations Research, Machine Learning.,
--*Basic:* Amazon AWS , Docker, Terraform, NoSQL, R, Talend, Hadoop, Jira, Kafka, Spark, Julia.
+- *Expert:* Python, SQL, Statistical Modelling.
+- *Experienced:* Airflow, Web Scraping, GitHub, Tableau, Deep Learning, GAMS, Operations Research, Machine Learning.,
+- *Basic:* Amazon AWS , Docker, Terraform, NoSQL, R, Talend, Hadoop, Jira, Kafka, Spark, Julia.
 
 ### Soft Skills
 
@@ -95,8 +95,8 @@ Reading, Travelling, and Football.
 
 ### Publications
 
--*Accepted:* **Fadina, S. A,\*** Fakoya, A. A, Akoshile, C. O, Ajibola, T. B. Spatio-temporal variation of downward longwave radiation over Nigeria. Ilorin Journal of Science. University of Ilorin.
+- *Accepted:* **Fadina, S. A,\*** Fakoya, A. A, Akoshile, C. O, Ajibola, T. B. Spatio-temporal variation of downward longwave radiation over Nigeria. Ilorin Journal of Science. University of Ilorin.
 
--*In review:* Fakoya A. A.; Ajibola T. B.; **Fadina, S. A\*** _et al._ Trend Analysis and Forecast of Thunderstorm Activities over Nigeria using Mann-Kendall and Auto-Regressive Integrated Moving Average Approach.
+- *In review:* Fakoya A. A.; Ajibola T. B.; **Fadina, S. A\*** _et al._ Trend Analysis and Forecast of Thunderstorm Activities over Nigeria using Mann-Kendall and Auto-Regressive Integrated Moving Average Approach.
 
--*In review:* A. Fakoya; T. B. Ajibola; **S. A Fadina\*** _et al_. Spatio-Temporal Variation and Classification of Thunderstorm Activities over Selected Stations in Nigeria&quot;.
+- *In review:* A. Fakoya; T. B. Ajibola; **S. A Fadina\*** _et al_. Spatio-Temporal Variation and Classification of Thunderstorm Activities over Selected Stations in Nigeria&quot;.
