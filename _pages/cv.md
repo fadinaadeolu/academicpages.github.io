@@ -7,12 +7,13 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
+### ____________________________________________________________________________________________________________________________________
 
 ## Adeolu Fadina
 
-**Address:** 50, Hagenbeckstraße, 22527 Hamburg (Germany).
-**mobile:** +49 1521 4058227.
-**e-mail:** fadinaadeolu@gmail.com.
+* **Address:** 50, Hagenbeckstraße, 22527 Hamburg (Germany)
+* **mobile:** +49 1521 4058227.
+* **e-mail:** fadinaadeolu@gmail.com.
 
 ## Personal Statement
 
