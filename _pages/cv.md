@@ -11,9 +11,9 @@ redirect_from:
 
 ## Adeolu Fadina
 
-* **Address:** 50, Hagenbeckstraße, 22527 Hamburg (Germany)
-* **mobile:** +49 1521 4058227
-* **e-mail:** fadinaadeolu@gmail.com
+- **Address:** 50, Hagenbeckstraße, 22527 Hamburg (Germany)
+- **mobile:** +49 1521 4058227
+- **e-mail:** fadinaadeolu@gmail.com
 
 ## Personal Statement
 
@@ -60,8 +60,8 @@ A data enthusiast and a lifelong learner with strong dedication to personal deve
 * *Thesis:* Spatio-temporal variation of downward longwave radiation over Nigeria, West-Africa.
 
 *Graduate Assistant.*
--Demonstrate laboratory experiments for undergraduate students.
--Provided support on undergraduate research projects and introduced students to scientific report writing.
+- Demonstrate laboratory experiments for undergraduate students.
+- Provided support on undergraduate research projects and introduced students to scientific report writing.
 
 ### BSc., Physics, Univeristy of Ilorin, Ilorin. (2010 – 2014)
 
@@ -69,11 +69,11 @@ A data enthusiast and a lifelong learner with strong dedication to personal deve
 
 ### Professional Development
 
--In view    AWS Data Architect Bootcamp. (Udemy.com) 
--Sep 2020 .... The Business Intelligence Analyst Course 2020. (Udemy.com)
--Aug 2020 Complete Python for data science and cloud computing. (Udemy.com)
--Aug 2020 Process Flowcharts and Process Mapping - The Beginner's Guide. (Udemy.com)
--May 2020 Deep Learning A-Z™: Hands-On Artificial Neural Networks. (Udemy.com)
+- In view   AWS Data Architect Bootcamp. (Udemy.com) 
+- Sep 2020  The Business Intelligence Analyst Course 2020. (Udemy.com)
+- Aug 2020  Complete Python for data science and cloud computing. (Udemy.com)
+- Aug 2020  Process Flowcharts and Process Mapping - The Beginner's Guide. (Udemy.com)
+- May 2020  Deep Learning A-Z™: Hands-On Artificial Neural Networks. (Udemy.com)
 
 ### Skills
 
