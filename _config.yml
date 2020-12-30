@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Adeolu Fadina"
   avatar           : "profile.png"
-  bio              : "A data enthusiast and a lifelong learner with strong dedication to personal development. I have work experience as data engineer and data analyst, where I aquired expertise to effectively operate across the entire data lifecycle from data collection and storage to utilization for optimal data-driven business decisions."
+  bio              : #"A data enthusiast and a lifelong learner with strong dedication to personal development. I have work experience as data engineer and data analyst, where I aquired expertise to effectively operate across the entire data lifecycle from data collection and storage to utilization for optimal data-driven business decisions."
   location         : "Hamburg, Germany"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
