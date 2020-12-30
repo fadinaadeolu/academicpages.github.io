@@ -1,10 +1,10 @@
 # main links links
 main:    
-  - title: "Data Science and Analytics"
-    url: /datasciana/
+  - title: "DSEA Portfolio"
+    url: /dsea/
 
-  - title: "Data Engineering"
-    url: /dataengineering/
+  #- title: "Data Engineering"
+  #  url: /dataengineering/
 
   - title: "Operations Research"
     url: /operationsresearch/
@@ -18,5 +18,5 @@ main:
   #- title: "Publications"
   #  url: /publications/  
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
