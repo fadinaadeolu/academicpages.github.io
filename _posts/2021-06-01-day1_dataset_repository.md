@@ -1,7 +1,7 @@
 ---
 title: 'Data Repositories for Data Science Projects'
-date: 2021-01-05
-permalink: /posts/day1_dataset_repository/
+date: 2021-01-06
+permalink: /posts/2021/01/day1_dataset_repository/
 tags:
   - 66days_of_data
 ---
