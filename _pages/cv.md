@@ -17,6 +17,10 @@ redirect_from:
 
 **e-mail:** fadinaadeolu@gmail.com
 
+**LinkedIn:** https://linkedin.com/in/fadinaadeolu
+
+**GitHub:** https://github.com/fadinaadeolu
+
 
 ## Personal Statement
 
@@ -79,9 +83,32 @@ A data enthusiast and a lifelong learner with strong dedication to personal deve
 - May 2020  Deep Learning A-Z™: Hands-On Artificial Neural Networks. (Udemy.com)
 
 ### Skills
-- *Expert:* Python, Data Analysis.
-- *Experienced:* SQL, Airflow, Web Scraping, GitHub, Tableau, Deep Learning, GAMS, Operations Research, Machine Learning, Amazon AWS, Docker, Kafka, Spark.
-- *Basic:* Terraform, NoSQL, R, Talend, Hadoop, Jira, , Julia, Java.
+- **Expert:** 
+    - Python
+    - Data Analysis
+- **Experienced:** 
+    - SQL
+    - Airflow
+    - Web Scraping
+    - GitHub
+    - Tableau
+    - Deep Learning
+    - GAMS
+    - Operations Research
+    - Machine Learning
+    - Amazon AWS
+    - Docker
+    - Kafka
+    - Spark
+- **Basic:**
+    - Terraform
+    - NoSQL
+    - R
+    - Talend
+    - Hadoop
+    - Jira
+    - Julia
+    - Java
 
 ### Soft Skills
 
