@@ -6,6 +6,7 @@ tags:
   - 66days_of_data
 ---
 ## Datasets for Data Science Projects
+
 "A journey of a thousand miles begins with a single step"- (Unknown). Getting the right data for your project is the first step towards a successful data science project and “your model is only as good as your data”- (Isaac, 2020). Data collection can be a daunting task. If you’ve ever worked on a personal data science project, you’ve probably spent lots of hours browsing the internet for the right datasets for your project. Trying to build your dataset is even more challenging. Luckily, there are hundreds of online data repositories that curate datasets that can be downloaded freely. A list of open data repositories is given below (list is contantly updated). In my next post, we will explore how to build dataset using APIs.
 
 1.	[Academic Torrents]( http://academictorrents.com/browse.php?cat=6): is geared around sharing the data sets from scientific papers.
