@@ -1,6 +1,6 @@
 ---
-title: "Test Data Science and Analytics Portfolio"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Customer Review Dataset (Deutsch)"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/preprocessed_review_wordcloud.png'>"
 collection: data_science_analytics
 ---
 ## Page under maintainance
